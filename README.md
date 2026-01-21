@@ -29,11 +29,14 @@
 ![Ruyynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruyynn&show_icons=true&theme=radical)
 
 ---
-
 ## ☕ Support Me
-If you like my work, you can support me here:  
-[![Saweria](https://img.shields.io/badge/Saweria-Donate-00ffcc?style=for-the-badge&logo=ko-fi)](https://saweria.co/Ruyynn)
-[![trakteer](https://img.shields.io/badge/trakteer-donate-00ffcc?style=for-the-badge&logo=ko-fi)](https://trakteer.id/ruyynn/tip)
+<a href="https://saweria.co/Ruyynn">
+  <img src="https://saweria.co/favicon.ico" width="20"/> Saweria
+</a> •
+<a href="https://trakteer.id/ruyynn/tip">
+  <img src="https://trakteer.id/favicon.ico" width="20"/> Trakteer
+</a>
+
 
 ---
 
