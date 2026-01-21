@@ -33,6 +33,7 @@
 ## ☕ Support Me
 If you like my work, you can support me here:  
 [![Saweria](https://img.shields.io/badge/Saweria-Donate-orange?style=for-the-badge&logo=ko-fi)](https://saweria.co/Ruyynn)
+[![trakteer](https://img.shields.io/badge/trakteer-donate-orange?style=for-the-badge&logo=ko-fi)](https://trakteer.id/ruyynn/tip)
 
 ---
 
