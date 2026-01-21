@@ -1,46 +1,36 @@
-<div align="center">
+<h1 align="center">
+  👾 Halo, Saya <a href="https://github.com/Ruyynn" style="color:#22d3ee;">RUYYNN</a> 👋
+</h1>
 
-![Banner](https://img.shields.io/badge/Jangan%20Lupa%20Follow%20GitHub%20Ruyynn-00ffcc?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=640&lines=WELCOME;FOLLOW+GITHUB+RUYYNN+%3A);PYTHON+TOOLS+%7C+SCRIPT+%7C+OFFENSIVE" alt="Typing SVG" />
+</p>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ruyynn&label=Visitors&color=00ffcc&style=flat)
-
-# Hi there 👋, I'm **Ruyynn!**
-
-</div>
-
-
----
-
-## 💻 About Me
-- 🧑‍💻 Name: **Ruyynn**
-- 🌏 Location: **Indonesia**
-- 🔐 Passion: **Cybersecurity & Ethical Hacking**
-- 🎯 Focus: **Red Team | Offensive Security**
+<p align="center">
+  <a href="https://github.com/Ruyynn">
+    <img src="https://komarev.com/ghpvc/?username=Ruyynn&label=Profile+Views&color=22d3ee&style=plastic" />
+  </a>
+</p>
 
 ---
 
-## 🌐 Languages
-- 🇮🇩 Indonesian (Native)
-- 🇬🇧 English (Basic / Technical)
+### 🧠 <span style="color:#22d3ee;">About Me</span>
 
----
+```bash
+👤   Name       : REYY
+🎯   Role       : Red Team | Offensive Security
+🔧   Stack      : Python, Bash, Linux, Git
+🔍   Focus      : Python Tools, Scripting, Offensive Ops
+⚡   Principle  : Low noise, high precision
+```
+## 🚀 <span style="color:#22d3ee;">Tech Stack</span>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github&theme=dark" height="50" /> </p>
 
-## ⚡ Stats
-![Ruyynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruyynn&show_icons=true&theme=radical)
+## 📊 <span style="color:#22d3ee;">Stats</span>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ruyynn&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> </p> 
 
----
-## ☕ Support Me
-<a href="https://saweria.co/Ruyynn">
-  <img src="https://saweria.co/favicon.ico" width="20"/> Saweria
-</a> •
-<a href="https://trakteer.id/ruyynn/tip">
-  <img src="https://trakteer.id/favicon.ico" width="20"/> Trakteer
-</a>
+## 🔗 <span style="color:#22d3ee;">Social</span>
+<p align="center"> <a href="https://instagram.com/USERNAME_IG"> <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=22d3ee"/> </a> <a href="https://tiktok.com/@USERNAME_TIKTOK"> <img src="https://img.shields.io/badge/TikTok-111827?style=for-the-badge&logo=tiktok&logoColor=22d3ee"/> </a> </p>
 
-
----
-
-## 📱 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-ellreynn-000000?style=for-the-badge&logo=instagram&logoColor=00ffcc)](https://www.instagram.com/ellreynn/)  
-[![TikTok](https://img.shields.io/badge/TikTok-_reyxxn-000000?style=for-the-badge&logo=tiktok&logoColor=00ffcc)](https://www.tiktok.com/@_reyxxn)  
-[![GitHub](https://img.shields.io/badge/GitHub-ruyynn-000000?style=for-the-badge&logo=github&logoColor=00ffcc)](https://github.com/ruyynn)
+## 💸 <span style="color:#22d3ee;">Support</span>
+<p align="center"> <a href="https://saweria.co/Ruyynn"> <img src="https://img.shields.io/badge/Saweria-0f172a?style=for-the-badge&logo=buy-me-a-coffee&logoColor=22d3ee"/> </a> <a href="https://trakteer.id/ruyynn"> <img src="https://img.shields.io/badge/Trakteer-0f172a?style=for-the-badge&logo=ko-fi&logoColor=22d3ee"/> </a> </p> <h3 align="center" style="color:#22d3ee;">✨ Thanks for stopping by ✨</h3> <p align="center"> <img src="https://img.shields.io/github/followers/Ruyynn?label=Follow%20me&style=social" /> </p> ```
