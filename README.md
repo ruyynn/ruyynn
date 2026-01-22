@@ -1,5 +1,5 @@
 <h1 align="center">
-  👾 Halo, Saya <a href="https://github.com/Ruyynn" style="color:#22d3ee;">RUYYNN</a> 👋
+   🧑‍💻 Halo, Saya <a href="https://github.com/Ruyynn" style="color:#22d3ee;">RUYYNN</a> 👋
 </h1>
 
 <p align="center">
