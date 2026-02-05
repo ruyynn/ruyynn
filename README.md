@@ -3,43 +3,32 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=640&lines=WELCOME;FOLLOW+GITHUB+RUYYNN+%3A);PYTHON+TOOLS+%7C+SCRIPT+%7C+OFFENSIVE" alt="Typing SVG" />
-</p>
-
-<!-- Banner GIF / Visual Enhancement -->
-<p align="center">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ruyynn)](https://github.com/ruyynn/github-readme-activity-graph)
-
-</p>
-
+ <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&lines=WELCOME;FOLLOW+GITHUB+RUYYNN+%3A);PYTHON+TOOLS+%7C+OFFENSIVE" alt="Typing SVG" />
 
 ---
 
 ### 🧠 <span style="color:#22d3ee;">About Me</span>
 ```bash
 👤   Name       : Ruyy
-
 🎯   Role       : Red Team | Offensive Security
-
 🔧   Stack      : Python, Bash, Linux, Git
-
 🔍   Focus      : Python Tools, Scripting, Offensive Ops
-
 ⚡   Principle  : Low noise, high precision
 ```
 ## 🚀 <span style="color:#22d3ee;">Tech Stack</span>
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github&theme=dark" height="50" /> </p>
 
 
-## 📊 Stats
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Offensive_Security-22d3ee?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Language-Python-22d3ee?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OS-Linux-22d3ee?style=for-the-badge"/>
+</p>
+
+## 📊 Activity
 
 <p align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruyynn&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruyynn&theme=tokyonight&hide_border=true)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruyynn&theme=tokyo-night&hide_border=true" />
 </p>
 
 ## 🔗 <span style="color:#22d3ee;">Social</span>
