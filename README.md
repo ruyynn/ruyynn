@@ -6,31 +6,51 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=640&lines=WELCOME;FOLLOW+GITHUB+RUYYNN+%3A);PYTHON+TOOLS+%7C+SCRIPT+%7C+OFFENSIVE" alt="Typing SVG" />
 </p>
 
+<!-- Banner GIF / Visual Enhancement -->
 <p align="center">
-  <a href="https://github.com/Ruyynn">
-    <img src="https://komarev.com/ghpvc/?username=Ruyynn&label=Profile+Views&color=22d3ee&style=plastic" />
-  </a>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ruyynn)](https://github.com/ruyynn/github-readme-activity-graph)
+
 </p>
+
 
 ---
 
 ### 🧠 <span style="color:#22d3ee;">About Me</span>
-
 ```bash
-👤   Name       : REYY
+👤   Name       : Ruyy
+
 🎯   Role       : Red Team | Offensive Security
+
 🔧   Stack      : Python, Bash, Linux, Git
+
 🔍   Focus      : Python Tools, Scripting, Offensive Ops
+
 ⚡   Principle  : Low noise, high precision
 ```
 ## 🚀 <span style="color:#22d3ee;">Tech Stack</span>
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github&theme=dark" height="50" /> </p>
 
-## 📊 <span style="color:#22d3ee;">Stats</span>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ruyynn&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> </p> 
+
+## 📊 Stats
+
+<p align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruyynn&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruyynn&theme=tokyonight&hide_border=true)
+
+</p>
 
 ## 🔗 <span style="color:#22d3ee;">Social</span>
-<p align="center"> <a href="https://instagram.com/USERNAME_IG"> <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=22d3ee"/> </a> <a href="https://tiktok.com/@USERNAME_TIKTOK"> <img src="https://img.shields.io/badge/TikTok-111827?style=for-the-badge&logo=tiktok&logoColor=22d3ee"/> </a> </p>
+<p align="center"> 
+  <a href="https://www.instagram.com/ellreynn"> 
+    <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=22d3ee"/> 
+  </a> 
+  <a href="https://www.tiktok.com/@_reyxxn"> 
+    <img src="https://img.shields.io/badge/TikTok-111827?style=for-the-badge&logo=tiktok&logoColor=22d3ee"/> 
+  </a> 
+</p>
 
 ## 💸 <span style="color:#22d3ee;">Support</span>
-<p align="center"> <a href="https://saweria.co/Ruyynn"> <img src="https://img.shields.io/badge/Saweria-0f172a?style=for-the-badge&logo=buy-me-a-coffee&logoColor=22d3ee"/> </a> <a href="https://trakteer.id/ruyynn"> <img src="https://img.shields.io/badge/Trakteer-0f172a?style=for-the-badge&logo=ko-fi&logoColor=22d3ee"/> </a> </p> <h3 align="center" style="color:#22d3ee;">✨ Thanks for stopping by ✨</h3> <p align="center"> <img src="https://img.shields.io/github/followers/Ruyynn?label=Follow%20me&style=social" /> </p> ```
+<p align="center"> <a href="https://saweria.co/Ruyynn"> <img src="https://img.shields.io/badge/Saweria-0f172a?style=for-the-badge&logo=buy-me-a-coffee&logoColor=22d3ee"/> </a> <a href="https://trakteer.id/ruyynn"> <img src="https://img.shields.io/badge/Trakteer-0f172a?style=for-the-badge&logo=ko-fi&logoColor=22d3ee"/> </a> </p> <h3 align="center" style="color:#22d3ee;">✨ Thanks for stopping by ✨</h3> <p align="center"> <img src="https://img.shields.io/github/followers/Ruyynn?label=Follow%20me&style=social" /> </p>
