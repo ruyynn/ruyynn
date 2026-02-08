@@ -34,11 +34,10 @@
 
 ## 📫 <span style="color:#22d3ee;">Contact / Collab</span>
 <p align="center">
-  <a href="mailto:ruyynn25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-22d3ee?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ruyynn25@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-contact me-22d3ee?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 
 ## 💸 <span style="color:#22d3ee;">Support</span>
 <p align="center"> <a href="https://saweria.co/donate/Ruyynn" rel="nofollow"> <img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Ruyynn" height="30" width="120" style="max-width: 100%; height: auto; max-height: 30px;" /> </a> <br> <img src="https://img.shields.io/github/followers/Ruyynn?label=Follow%20me&style=social" /> </p>
