@@ -26,12 +26,16 @@
 ### 🧠 <span style="color:#22d3ee;">About Me</span>
 
 ```bash
-👤   Name       : Ruyy
-🏠   Live in    : Depok, West Java
-🎯   Role       : Red Team | Offensive Security
-🔧   Stack      : Python, Bash, Linux, Git
-🔍   Focus      : Python Tools, Scripting, Offensive Ops
-⚡   Principle  : Low noise, high precision
+👤   Name       :  Ruyy
+🏠   Live in    :  Depok, West Java
+🎯   Role       :  Red Team | Offensive Security
+🔧   Stack      :  Python  ✦  Bash  ✦  Linux  ✦  Git
+🔍   Focus      :  Python Tools  ✦  Scripting  ✦  Ops
+⚡   Principle  :  "Low noise, high precision"
+
+─────────────────────────────────────────────────────────
+
+▸  STATUS  :  🟢 ACTIVE  •  🟡 STEALTH  •  🔴 ARMED
 ```
 ---
 ## 🚀 <span style="color:#22d3ee;">Tech Stack</span>
@@ -92,21 +96,70 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-   <img src="https://streak-stats.demolab.com?user=ruyynn&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruyynn&theme=tokyonight" height="170" />
+  <img src="https://streak-stats.demolab.com?user=ruyynn&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruyynn&theme=tokyonight" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruyynn&theme=tokyonight" height="170" />
 </p>
 
 
 ## 🔗 <span style="color:#22d3ee;">Social</span>
-<p align="center"> <a href="https://www.instagram.com/ellreynn"> <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=22d3ee" /> </a> <a href="https://www.tiktok.com/@_reyxxn"> <img src="https://img.shields.io/badge/TikTok-111827?style=for-the-badge&logo=tiktok&logoColor=22d3ee" /> </a> </p>
 
+<p align="center">
+  <a href="https://www.instagram.com/ellreynn">
+    <img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a1a" />
+    <img src="https://img.shields.io/badge/Followers-1.2K-22d3ee?style=flat-square" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.tiktok.com/@_reyxxn">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=1a1a1a" />
+    <img src="https://img.shields.io/badge/Followers-800-22d3ee?style=flat-square" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ruyynn">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" />
+    <img src="https://img.shields.io/github/followers/ruyynn?style=flat-square&color=22d3ee" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ruyynn25@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" />
+    <img src="https://img.shields.io/badge/Reply%20time-24h-22d3ee?style=flat-square" />
+  </a>
+</p>
 
 ## 📫 <span style="color:#22d3ee;">Contact / Collab</span>
 <p align="center"> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ruyynn25@gmail.com"> <img src="https://img.shields.io/badge/Gmail-contact%20me-22d3ee?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
-## 💸 <span style="color:#22d3ee;">Support</span>
-<p align="center"> <a href="https://saweria.co/donate/Ruyynn"> <img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" height="30" /> </a> <br><br> <img src="https://img.shields.io/github/followers/Ruyynn?label=Follow%20me&style=social" /> </p> 
+## 💸 <span style="color:#22d3ee;">Support Me</span>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines=Low+noise.;High+impact.;Ethics+first.;Precision+always." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Setiap+donasi+adalah+semangat+buat+terus+karya!;Beli+server,+kopi,+dan+energi+buat+coding!;Thanks+for+supporting+open+source!;Your+support+keeps+me+motivated!" />
 </p>
 
+<p align="center">
+  <a href="https://saweria.co/donate/Ruyynn">
+    <img src="https://img.shields.io/badge/💰%20DONASI%20VIA%20SAWERIA-22d3ee?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=111827" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://saweria.co/donate/Ruyynn">
+    <img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" width="180" />
+  </a>
+</p>
+
+
+<p align="center">
+  <i>"Sekecil apapun donasi, sangat berarti buat saya"</i>
+  <br>
+  <b>Terima kasih untuk semua yang sudah support! 🙏</b>
+</p>
