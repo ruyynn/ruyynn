@@ -44,8 +44,7 @@
 <!-- Languages / Dev Tools -->
 <h3 align="center">💻 Languages & Dev Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,go,php,cpp,html,cs,github,bash,vscode&theme=dark" height="55"/>
-  <img src="https://skillicons.dev/icons?i=tmux&theme=dark" height="55"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,go,php,cpp,html,cs,github,bash,vscode,docker&theme=dark" height="55"/>
 </p>
 
 <!-- Operating Systems -->
@@ -79,16 +78,17 @@
   <img src="https://img.shields.io/badge/Maltego-111827?style=for-the-badge&logo=maltego&logoColor=purple"/>
   <img src="https://img.shields.io/badge/Shodan-111827?style=for-the-badge&logo=shodan&logoColor=blue"/>
   <img src="https://img.shields.io/badge/theHarvester-111827?style=for-the-badge&logo=theharvester&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/Termux-111827?style=for-the-badge&logo=termux&logoColor=white" height="40"/>
 </p>
+
+
 
 <!-- Labs / Learning -->
 <h3 align="center">🧪 Labs & Learning</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/HackTheBox-111827?style=for-the-badge&logo=hackthebox&logoColor=purple"/>
-  <img src="https://img.shields.io/badge/TryHackMe-111827?style=for-the-badge&logo=tryhackme&logoColor=cyan"/>
-  <img src="https://img.shields.io/badge/PortSwigger_Academy-111827?style=for-the-badge&logo=portswigger&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-111827?style=for-the-badge&logo=portswigger&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/PentesterLab-111827?style=for-the-badge&logo=pentesterlab&logoColor=cyan"/>
+  <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="40"/>
+  <img src="https://cdn.simpleicons.org/tryhackme/212C42" height="40"/>
+  <img src="https://cdn.simpleicons.org/portswigger/ff6f00" height="40"/>
 </p>
 
 ## 📊 Activity
