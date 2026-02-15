@@ -7,7 +7,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&lines=WELCOME;FOLLOW+GITHUB+RUYYNN+%3A);PYTHON+TOOLS+%7C+OFFENSIVE" />
+<img src="https://readme-typing-svg.demolab.com?size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&lines=Python+Tools+%7C+Ethical+Hacker;Learning+Testing+Coding;Follow+me+for+more" />
+
 </p>
 
 <p align="center">
