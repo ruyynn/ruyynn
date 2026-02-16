@@ -44,7 +44,7 @@
 <!-- Languages / Dev Tools -->
 <h3 align="center">💻 Languages & Dev Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,go,php,cpp,html,cs,github,bash,vscode,docker&theme=dark" height="55"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,git,go,php,cpp,html,cs,github,bash,vscode,docker&theme=dark" height="55"/>
 </p>
 
 <!-- Operating Systems -->
