@@ -53,36 +53,6 @@
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,mint,kali,arch,windows&theme=dark" height="55"/>
 </p>
 
-<!-- Tools / Security -->
-<h3 align="center">🛠️ Tools & Security</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Nmap-111827?style=for-the-badge&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-111827?style=for-the-badge&logo=wireshark&logoColor=0096D6"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-111827?style=for-the-badge&logo=portswigger&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/Tor-111827?style=for-the-badge&logo=torproject&logoColor=7E4798"/>
-  <img src="https://img.shields.io/badge/OWASP_ZAP-111827?style=for-the-badge&logo=owasp&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/MikroTik-111827?style=for-the-badge&logo=mikrotik&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VirtualBox-111827?style=for-the-badge&logo=virtualbox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-111827?style=for-the-badge&logo=metasploit&logoColor=purple"/>
-  <img src="https://img.shields.io/badge/Sqlmap-111827?style=for-the-badge&logo=sqlmap&logoColor=green"/>
-  <img src="https://img.shields.io/badge/Nikto-111827?style=for-the-badge&logo=nikto&logoColor=red"/>
-  <img src="https://img.shields.io/badge/John_The_Ripper-111827?style=for-the-badge&logo=johntheripper&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hydra-111827?style=for-the-badge&logo=hydra&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firefox-111827?style=for-the-badge&logo=firefox&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/Nginx-111827?style=for-the-badge&logo=nginx&logoColor=green"/>
-  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Autopsy-111827?style=for-the-badge&logo=autopsy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VPN-111827?style=for-the-badge&logo=vpn&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Curl-111827?style=for-the-badge&logo=curl&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Wget-111827?style=for-the-badge&logo=wget&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maltego-111827?style=for-the-badge&logo=maltego&logoColor=purple"/>
-  <img src="https://img.shields.io/badge/Shodan-111827?style=for-the-badge&logo=shodan&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/theHarvester-111827?style=for-the-badge&logo=theharvester&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/Termux-111827?style=for-the-badge&logo=termux&logoColor=white" height="40"/>
-</p>
-
-
-
 <!-- Labs / Learning -->
 <h3 align="center">🧪 Labs & Learning</h3>
 <p align="center">
