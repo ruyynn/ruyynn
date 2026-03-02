@@ -16,10 +16,9 @@
 
   <!-- Profile Views Counter -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ruyynn&label=PROFILE+VIEWS&color=22d3ee&style=for-the-badge" />
-    <img src="https://img.shields.io/github/followers/ruyynn?style=for-the-badge&logo=github&color=22d3ee" />
-    <img src="https://img.shields.io/github/stars/ruyynn?style=for-the-badge&logo=github&color=22d3ee" />
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=ruyynn&label=👋%20Visitor&color=blue&style=for-the-badge" />
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"/>
+</p>
 
   <!-- Animated Snake -->
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
@@ -38,7 +37,6 @@
 📋  PERSONAL INFO:
     ├─ 👤  Name        : Ruyynn
     ├─ 📍  Location    : Depok, West Java
-    ├─ 🎂  Age         : 17
     ├─ 💼  Role        : Red Team | Offensive Security
     └─ ⚡  Principle   : "Low noise, high precision"
 
@@ -84,13 +82,17 @@
 
 ---
 
-## 🌟 <span style="color:#22d3ee;">DAILY DEV CARD</span>
+## ◼️ <span style="color:#22d3ee;">END CREDITS</span>
+
+
+<br>
 
 <p align="center">
-  <a href="https://app.daily.dev/ruyynn">
-    <img src="https://api.daily.dev/devcards/v2/ruyynn.png?type=wide&r=89k" width="600"/>
-  </a>
+  <b>R U Y Y N N</b>
+  <br>
+  <sub>Developer • Creator • Learner</sub>
 </p>
+
 ---
 
 ## 🏆 <span style="color:#22d3ee;">VISITOR MAP</span>
