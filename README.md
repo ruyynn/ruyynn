@@ -48,7 +48,6 @@
 
 📊  CURRENT STATUS:
     ├─ 🟢  Status      : ACTIVE
-    ├─ 🚀  Project     : HACKME WhatsApp Tools v1.1.0
     ├─ 📈  Followers   : Growing
     └─ 💬  Contact     : Open for collab!
 ```
@@ -94,24 +93,6 @@
 </p>
 
 ---
-
-## 🏆 <span style="color:#22d3ee;">VISITOR MAP</span>
-
-<p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=ruyynn&cc=0d1117&tc=22d3ee&ic=22d3ee&bc=0d1117" width="80%"/>
-</p>
-
----
-
-## 💬 <span style="color:#22d3ee;">FINAL WORDS</span>
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad."</i>
-  <br>
-  <b>- Cory House</b>
-</p>
-
-<br>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=500&color=22D3EE&center=true&vCenter=true&width=500&lines=Always+learning%2C+always+growing;Open+for+collaboration;DM+me+for+projects;Let's+build+something+awesome!" />
