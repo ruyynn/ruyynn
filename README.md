@@ -112,10 +112,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruyynn&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=22d3ee&line=22d3ee&point=ffffff&area=true" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</p>
-
 ---
 
 ## 〔 CONNECT 〕
