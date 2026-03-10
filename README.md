@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="./ruyynn-header.svg" width="100%"/>
+  <img src="./ruyynn-banner.gif" width="100%"/>
 </p>
 
 <p align="center">
