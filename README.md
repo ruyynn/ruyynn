@@ -10,160 +10,97 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python&theme=dark" height="60"/>
   &nbsp;
-  <samp>All tools are <b>free & open source</b> — built with Python, simple enough even for beginners.</samp>
+  <samp>All tools are <b>free & open source</b> — built with Python: clean and efficient.</samp>
   &nbsp;
   <img src="https://skillicons.dev/icons?i=python&theme=dark" height="60"/>
 </p>
 
 <p align="center">
-  <sub>Follow my GitHub & ⭐ star the repos — more free, awesome tools are coming at <b>Ruyynn</b>. See you there!</sub>
+  <sub>Explore the repositories — more tools coming soon. See you there!</sub>
 </p>
 
-<br>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruyynn&label=PROFILE+VIEWS&color=0d1117&style=for-the-badge&labelColor=22d3ee" />
-  <img src="https://img.shields.io/badge/ETHICAL_HACKER-0d1117?style=for-the-badge&labelColor=22d3ee&logo=hackthebox&logoColor=0d1117" />
-  <img src="https://img.shields.io/badge/RED_TEAM-0d1117?style=for-the-badge&labelColor=ff3e3e&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/OPEN_SOURCE-0d1117?style=for-the-badge&labelColor=22d3ee&logo=opensourceinitiative&logoColor=0d1117" />
-  <img src="https://img.shields.io/badge/WEB_PENTEST-0d1117?style=for-the-badge&labelColor=9FEF00&logo=googlechrome&logoColor=000" />
-</p>
+**`Red Team · Python Dev · Open Source`**
 
-<br>
+[![Profile Views](https://komarev.com/ghpvc/?username=ruyynn&color=0d1117&style=flat-square&label=views)](https://github.com/ruyynn)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/ruyynn?style=flat-square&color=0d1117&labelColor=22d3ee&logo=github)](https://github.com/ruyynn)
+
+</div>
 
 ---
 
-## 〔 WHOAMI 〕
+## 👤 About Me
 
-<table align="center" border="0">
-<tr>
-<td width="50%" valign="top">
-
-```bash
-┌──(ruyynn㉿hackme)-[~]
-└─$ whoami --verbose
-
-  UID       →  Ruyynn
-  LOCATION  →  West Java, ID
-  ROLE      →  Red Team · Python Dev
-  PRINCIPLE →  "Low noise, high precision."
-  STATUS    →  ██████████ ONLINE
-```
-
-</td>
-<td width="50%" valign="top">
-
-```bash
-┌──(ruyynn㉿hackme)-[~]
-└─$ cat focus.txt
-
-  LANGUAGES →  Python · Bash · Go · JS
-  TOOLS     →  Kali · Metasploit · Burp
-  FOCUS     →  OSINT · Automation · Recon
-  NOW       →  [ Learning ] [ Building ]
-  OPEN FOR  →  Collab · CTF · Open Source
-```
-
-</td>
-</tr>
-</table>
+| | |
+|---|---|
+| **Name** | Ruyynn |
+| **Location** | West Java, Indonesia |
+| **Role** | Cybersecurity Enthusiast · Python Dev |
+| **Principle** | *"Low noise, high precision."* |
+| **Status** | ⚡ Building & Learning |
 
 ---
 
-## 〔 TECH STACK 〕
+## ⚡ Stack
 
-<h3 align="center">◈ Languages & Dev Tools ◈</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,js,go,php,java,html,git,github,vscode&theme=dark&perline=5" />
-</p>
+**Languages**
 
-<h3 align="center">◈ Operating Systems ◈</h3>
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=00ADD8)
+![JavaScript](https://img.shields.io/badge/JS-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,arch,mint,windows&theme=dark" />
-</p>
+**Security Tools**
 
-<h3 align="center">◈ Security Labs ◈</h3>
+![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=557C99)
+![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=flat-square&logo=metasploit&logoColor=2596CD)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=burpsuite&logoColor=FF6633)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-0d1117?style=flat-square&logo=hackthebox&logoColor=9FEF00)
 
-<p align="center">
-  <a href="https://app.hackthebox.com"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=000&labelColor=111827" /></a>
-  <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=111827" /></a>
-  <a href="https://portswigger.net/web-security"><img src="https://img.shields.io/badge/PortSwigger_WebAcademy-FF6F00?style=for-the-badge&logoColor=white&labelColor=111827" /></a>
-</p>
+</div>
 
 ---
 
-## 〔 GITHUB STATS 〕
+## 🛠️ Projects
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruyynn&theme=tokyonight" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=ruyynn&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=94a3b8&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruyynn&theme=tokyonight" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruyynn&theme=tokyonight" height="165"/>
-</p>
-
-## 〔 ACTIVITY 〕
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruyynn&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=22d3ee&line=22d3ee&point=ffffff&area=true" width="100%"/>
-</p>
+| Project | Description |
+|---|---|
+| [**hxr**](https://github.com/ruyynn/hxr) | Advanced security reconnaissance framework for bug bounty hunting & authorized penetration testing. |
+| [**RYN27**](https://github.com/ruyynn/RYN27) | Open source CLI tool for information gathering — WHOIS, DNS, IP geolocation, port scanning, technology detection, and more. Built for bug bounty hunters, CTF players, and security researchers. |
+| [**IP-Hunter**](https://github.com/ruyynn/IP-Hunter) | Defensive security assessment tool to help website owners and developers identify potential security risks and web misconfigurations. |
 
 ---
 
-## 〔 CONNECT 〕
+## 📊 Stats
 
-<p align="center">
-  <a href="https://github.com/ruyynn">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=22d3ee" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/ellreynn">
-    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
-  </a>
-  &nbsp;
-  <a href="https://www.tiktok.com/@_reyxxn">
-    <img src="https://img.shields.io/badge/TikTok-0d1117?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:ruyynn25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <sub>💬 Open for collaboration, CTF, and open source projects</sub>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=ruyynn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8" height="160"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com?user=ruyynn&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee" height="160"/>
+
+</div>
 
 ---
 
-## 〔 SUPPORT 〕
+## 🔗 Connect
 
-<p align="center">
-  <a href="https://saweria.co/Ruyynn">
-    <img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" width="180"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <sub><i>"Sekecil apapun support, sangat berarti. Terima kasih! 🙏"</i></sub>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=22d3ee)](https://github.com/ruyynn)
+[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=22d3ee)](https://web.facebook.com/profile.php?id=61587795784907)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:ruyynn25@gmail.com)
+
+*Open for collaboration · CTF · Open Source*
+
+</div>
 
 ---
 
-<p align="center">
-  <samp>R U Y Y N N &nbsp;·&nbsp; Developer &nbsp;·&nbsp; Creator &nbsp;·&nbsp; Learner</samp>
-</p>
-
-<p align="center">
-  <a href="#top">
-    <img src="https://img.shields.io/badge/⬆️_Back_to_Top-0d1117?style=flat-square&labelColor=22d3ee&color=0d1117" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:0d1117&height=100&section=footer"/>
-</p>
+<div align="center">
+  <sub><code>RUYYNN · Developer · Creator · Learner</code></sub>
+</div>
