@@ -75,7 +75,7 @@
 <h3 align="center">◈ Languages & Dev Tools ◈</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,js,nodejs,go,php,cpp,java,html,cs,git,github,vscode,docker&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,bash,js,go,php,java,html,git,github,vscode&theme=dark&perline=5" />
 </p>
 
 <h3 align="center">◈ Operating Systems ◈</h3>
