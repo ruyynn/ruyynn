@@ -50,9 +50,11 @@
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=3776AB)
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
 ![JavaScript](https://img.shields.io/badge/JS-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=white)
 
 **Security Tools**
 
@@ -66,12 +68,45 @@
 ---
 
 ## 🛠️ Projects
-
-| Project | Description |
-|---|---|
-| [**hxr**](https://github.com/ruyynn/hxr) | Advanced security reconnaissance framework for bug bounty hunting & authorized penetration testing. |
-| [**RYN27**](https://github.com/ruyynn/RYN27) | Open source CLI tool for information gathering — WHOIS, DNS, IP geolocation, port scanning, technology detection, and more. Built for bug bounty hunters, CTF players, and security researchers. |
-| [**IP-Hunter**](https://github.com/ruyynn/IP-Hunter) | Defensive security assessment tool to help website owners and developers identify potential security risks and web misconfigurations. |
+ 
+<table>
+<tr>
+<td width="33%" valign="top">
+ 
+**[🔭 hxr](https://github.com/ruyynn/hxr)**
+ 
+Advanced security reconnaissance framework for bug bounty hunting & authorized penetration testing.
+ 
+![Recon](https://img.shields.io/badge/Recon-0d1117?style=flat-square&labelColor=0F6E56&color=0d1117)
+![BugBounty](https://img.shields.io/badge/Bug_Bounty-0d1117?style=flat-square&labelColor=0F6E56&color=0d1117)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&labelColor=185FA5&color=0d1117)
+ 
+</td>
+<td width="33%" valign="top">
+ 
+**[📡 RYN27](https://github.com/ruyynn/RYN27)**
+ 
+Open source CLI tool for information gathering — WHOIS, DNS, IP geolocation, port scanning, technology detection, and more.
+ 
+![OSINT](https://img.shields.io/badge/OSINT-0d1117?style=flat-square&labelColor=185FA5&color=0d1117)
+![CLI](https://img.shields.io/badge/CLI-0d1117?style=flat-square&labelColor=185FA5&color=0d1117)
+![CTF](https://img.shields.io/badge/CTF-0d1117?style=flat-square&labelColor=0F6E56&color=0d1117)
+ 
+</td>
+<td width="33%" valign="top">
+ 
+**[🛡️ IP-Hunter](https://github.com/ruyynn/IP-Hunter)**
+ 
+Defensive security assessment tool to help website owners identify potential security risks and web misconfigurations.
+ 
+![Defensive](https://img.shields.io/badge/Defensive-0d1117?style=flat-square&labelColor=854F0B&color=0d1117)
+![WebSecurity](https://img.shields.io/badge/Web_Security-0d1117?style=flat-square&labelColor=854F0B&color=0d1117)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&labelColor=185FA5&color=0d1117)
+ 
+</td>
+</tr>
+</table>
+ 
 
 ---
 
