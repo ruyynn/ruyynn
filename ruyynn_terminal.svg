@@ -1,0 +1,205 @@
+<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&amp;display=swap');
+      text { font-family: 'JetBrains Mono', 'Courier New', monospace; }
+
+      .prompt { fill: #58a6ff; }
+      .cmd    { fill: #e6edf3; }
+      .key    { fill: #79c0ff; }
+      .val    { fill: #e6edf3; }
+      .out    { fill: #8b949e; }
+      .accent { fill: #56d364; }
+      .dim    { fill: #30363d; }
+      .sep    { fill: #30363d; }
+      .tag-bg { fill: #161b22; stroke: #30363d; stroke-width: 1; }
+      .tag-txt{ fill: #79c0ff; }
+
+      /* typing animation for verbose text */
+      .t1  { animation: reveal 0.05s  0.5s  both; }
+      .t2  { animation: reveal 0.05s  0.55s both; }
+      .t3  { animation: reveal 0.05s  0.6s  both; }
+      .t4  { animation: reveal 0.05s  0.65s both; }
+      .t5  { animation: reveal 0.05s  0.7s  both; }
+      .t6  { animation: reveal 0.05s  0.75s both; }
+      .t7  { animation: reveal 0.05s  0.8s  both; }
+      .t8  { animation: reveal 0.05s  0.85s both; }
+      .t9  { animation: reveal 0.05s  0.9s  both; }
+      .t10 { animation: reveal 0.05s  0.95s both; }
+      .t11 { animation: reveal 0.05s  1.0s  both; }
+      .t12 { animation: reveal 0.05s  1.05s both; }
+      .t13 { animation: reveal 0.05s  1.1s  both; }
+      .t14 { animation: reveal 0.05s  1.15s both; }
+      .t15 { animation: reveal 0.05s  1.2s  both; }
+      .t16 { animation: reveal 0.05s  1.25s both; }
+      .t17 { animation: reveal 0.05s  1.3s  both; }
+      .t18 { animation: reveal 0.05s  1.35s both; }
+      .t19 { animation: reveal 0.05s  1.4s  both; }
+      .t20 { animation: reveal 0.05s  1.45s both; }
+      .t21 { animation: reveal 0.05s  1.5s  both; }
+      .t22 { animation: reveal 0.05s  1.55s both; }
+      .t23 { animation: reveal 0.05s  1.6s  both; }
+      .t24 { animation: reveal 0.05s  1.65s both; }
+      .t25 { animation: reveal 0.05s  1.7s  both; }
+      .t26 { animation: reveal 0.05s  1.75s both; }
+      .t27 { animation: reveal 0.05s  1.8s  both; }
+      .t28 { animation: reveal 0.05s  1.85s both; }
+      .t29 { animation: reveal 0.05s  1.9s  both; }
+      .t30 { animation: reveal 0.05s  1.95s both; }
+      .t31 { animation: reveal 0.05s  2.0s  both; }
+      .t32 { animation: reveal 0.05s  2.05s both; }
+      .t33 { animation: reveal 0.05s  2.1s  both; }
+      .t34 { animation: reveal 0.05s  2.15s both; }
+      .t35 { animation: reveal 0.05s  2.2s  both; }
+      .t36 { animation: reveal 0.05s  2.25s both; }
+      .t37 { animation: reveal 0.05s  2.3s  both; }
+      .t38 { animation: reveal 0.05s  2.35s both; }
+      .t39 { animation: reveal 0.05s  2.4s  both; }
+      .t40 { animation: reveal 0.05s  2.45s both; }
+      .t41 { animation: reveal 0.05s  2.5s  both; }
+      .t42 { animation: reveal 0.05s  2.55s both; }
+      .t43 { animation: reveal 0.05s  2.6s  both; }
+      .t44 { animation: reveal 0.05s  2.65s both; }
+      .t45 { animation: reveal 0.05s  2.7s  both; }
+      .t46 { animation: reveal 0.05s  2.75s both; }
+      .t47 { animation: reveal 0.05s  2.8s  both; }
+      .t48 { animation: reveal 0.05s  2.85s both; }
+      .t49 { animation: reveal 0.05s  2.9s  both; }
+      .t50 { animation: reveal 0.05s  2.95s both; }
+      .t51 { animation: reveal 0.05s  3.0s  both; }
+      .t52 { animation: reveal 0.05s  3.05s both; }
+      .t53 { animation: reveal 0.05s  3.1s  both; }
+      .t54 { animation: reveal 0.05s  3.15s both; }
+      .t55 { animation: reveal 0.05s  3.2s  both; }
+      .t56 { animation: reveal 0.05s  3.25s both; }
+      .t57 { animation: reveal 0.05s  3.3s  both; }
+      .t58 { animation: reveal 0.05s  3.35s both; }
+      .t59 { animation: reveal 0.05s  3.4s  both; }
+      .t60 { animation: reveal 0.05s  3.45s both; }
+
+      @keyframes reveal {
+        from { opacity: 0; }
+        to   { opacity: 1; }
+      }
+
+      .cursor {
+        animation: blink 1s step-end infinite;
+        animation-delay: 3.5s;
+        opacity: 0;
+      }
+      @keyframes blink {
+        0%,100% { opacity: 1; }
+        50%      { opacity: 0; }
+      }
+
+      .fade-in { animation: reveal 0.3s 0.1s both; }
+    </style>
+
+    <!-- terminal background -->
+    <rect id="bg" width="900" height="280" rx="10" ry="10" fill="#0d1117"/>
+    <!-- titlebar -->
+    <rect id="tb" width="900" height="36" rx="10" ry="10" fill="#161b22"/>
+    <rect y="18" width="900" height="18" fill="#161b22"/>
+    <line x1="0" y1="36" x2="900" y2="36" stroke="#21262d" stroke-width="1"/>
+  </defs>
+
+  <use href="#bg"/>
+  <use href="#tb"/>
+
+  <!-- dots -->
+  <circle cx="18" cy="18" r="5.5" fill="#ff5f57"/>
+  <circle cx="34" cy="18" r="5.5" fill="#febc2e"/>
+  <circle cx="50" cy="18" r="5.5" fill="#28c840"/>
+  <text x="66" y="23" font-size="11" fill="#8b949e" letter-spacing="1">ruyynn@kali ~ — bash</text>
+
+  <!-- ══ LEFT COLUMN ══ -->
+  <!-- prompt line -->
+  <text x="20" y="62" font-size="12" class="prompt fade-in">┌──(</text>
+  <text x="62" y="62" font-size="12" fill="#56d364" class="fade-in">ruyynn</text>
+  <text x="114" y="62" font-size="12" class="prompt fade-in">㉿kali)-[</text>
+  <text x="192" y="62" font-size="12" class="val fade-in">~</text>
+  <text x="203" y="62" font-size="12" class="prompt fade-in">]</text>
+
+  <text x="20" y="80" font-size="12" class="fade-in">
+    <tspan class="prompt">└─$</tspan>
+    <tspan class="cmd"> cat about.txt</tspan>
+  </text>
+
+  <!-- separator -->
+  <text x="20" y="98" font-size="12" class="sep fade-in">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</text>
+
+  <!-- info rows -->
+  <text x="20" y="116" font-size="12" class="fade-in"><tspan class="key">  USER    </tspan><tspan class="dim"> :: </tspan><tspan class="val">Ruyynn</tspan></text>
+  <text x="20" y="134" font-size="12" class="fade-in"><tspan class="key">  LOCATION</tspan><tspan class="dim"> :: </tspan><tspan class="val">West Java, Indonesia</tspan></text>
+  <text x="20" y="152" font-size="12" class="fade-in"><tspan class="key">  ROLE    </tspan><tspan class="dim"> :: </tspan><tspan class="val">Cybersecurity Enthusiast + Python Dev</tspan></text>
+  <text x="20" y="170" font-size="12" class="fade-in"><tspan class="key">  STATUS  </tspan><tspan class="dim"> :: </tspan><tspan class="accent">⚡ Building &amp; Learning</tspan></text>
+  <text x="20" y="188" font-size="12" class="fade-in"><tspan class="key">  MOTTO   </tspan><tspan class="dim"> :: </tspan><tspan class="out">"Low noise, high precision."</tspan></text>
+
+  <!-- separator -->
+  <text x="20" y="206" font-size="12" class="sep fade-in">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</text>
+
+  <text x="20" y="224" font-size="12" class="fade-in">
+    <tspan class="prompt">└─$</tspan>
+    <tspan class="cmd"> ls ./skills/</tspan>
+  </text>
+
+  <!-- skill tags -->
+  <rect x="20"  y="232" width="52"  height="18" rx="3" class="tag-bg"/>
+  <text x="24"  y="245" font-size="11" class="tag-txt fade-in">Python</text>
+
+  <rect x="78"  y="232" width="70"  height="18" rx="3" class="tag-bg"/>
+  <text x="82"  y="245" font-size="11" class="tag-txt fade-in">Kali Linux</text>
+
+  <rect x="154" y="232" width="40"  height="18" rx="3" class="tag-bg"/>
+  <text x="158" y="245" font-size="11" class="tag-txt fade-in">OSINT</text>
+
+  <rect x="200" y="232" width="40"  height="18" rx="3" class="tag-bg"/>
+  <text x="204" y="245" font-size="11" class="tag-txt fade-in">Recon</text>
+
+  <rect x="246" y="232" width="74"  height="18" rx="3" class="tag-bg"/>
+  <text x="250" y="245" font-size="11" class="tag-txt fade-in">Tool Builder</text>
+
+  <!-- ══ RIGHT COLUMN ══ -->
+  <text x="468" y="62" font-size="12" class="sep fade-in">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</text>
+
+  <text x="468" y="80" font-size="12" class="fade-in">
+    <tspan class="prompt">└─$</tspan>
+    <tspan class="cmd"> whoami --verbose</tspan>
+  </text>
+
+  <!-- typed verbose text — split into word-by-word tspans per line -->
+  <!-- Line 1 -->
+  <text x="468" y="100" font-size="11.5" class="out">
+    <tspan class="t1">F</tspan><tspan class="t1">o</tspan><tspan class="t1">c</tspan><tspan class="t1">u</tspan><tspan class="t1">s</tspan><tspan class="t1">e</tspan><tspan class="t1">d</tspan><tspan class="t2"> </tspan><tspan class="t2">o</tspan><tspan class="t2">n</tspan><tspan class="t3"> </tspan><tspan class="t3">b</tspan><tspan class="t3">u</tspan><tspan class="t3">i</tspan><tspan class="t3">l</tspan><tspan class="t3">d</tspan><tspan class="t3">i</tspan><tspan class="t3">n</tspan><tspan class="t3">g</tspan><tspan class="t4"> </tspan><tspan class="t4">d</tspan><tspan class="t4">i</tspan><tspan class="t4">g</tspan><tspan class="t4">i</tspan><tspan class="t4">t</tspan><tspan class="t4">a</tspan><tspan class="t4">l</tspan><tspan class="t5"> </tspan><tspan class="t5">s</tspan><tspan class="t5">e</tspan><tspan class="t5">c</tspan><tspan class="t5">u</tspan><tspan class="t5">r</tspan><tspan class="t5">i</tspan><tspan class="t5">t</tspan><tspan class="t5">y</tspan><tspan class="t6"> </tspan><tspan class="t6">s</tspan><tspan class="t6">o</tspan><tspan class="t6">l</tspan><tspan class="t6">u</tspan><tspan class="t6">t</tspan><tspan class="t6">i</tspan><tspan class="t6">o</tspan><tspan class="t6">n</tspan><tspan class="t6">s</tspan>
+  </text>
+  <!-- Line 2 -->
+  <text x="468" y="118" font-size="11.5" class="out">
+    <tspan class="t7">a</tspan><tspan class="t7">n</tspan><tspan class="t7">d</tspan><tspan class="t8"> </tspan><tspan class="t8">e</tspan><tspan class="t8">x</tspan><tspan class="t8">p</tspan><tspan class="t8">l</tspan><tspan class="t8">o</tspan><tspan class="t8">r</tspan><tspan class="t8">i</tspan><tspan class="t8">n</tspan><tspan class="t8">g</tspan><tspan class="t9"> </tspan><tspan class="t9">i</tspan><tspan class="t9">n</tspan><tspan class="t9">f</tspan><tspan class="t9">o</tspan><tspan class="t9">r</tspan><tspan class="t9">m</tspan><tspan class="t9">a</tspan><tspan class="t9">t</tspan><tspan class="t9">i</tspan><tspan class="t9">o</tspan><tspan class="t9">n</tspan><tspan class="t10"> </tspan><tspan class="t10">t</tspan><tspan class="t10">e</tspan><tspan class="t10">c</tspan><tspan class="t10">h</tspan><tspan class="t10">n</tspan><tspan class="t10">o</tspan><tspan class="t10">l</tspan><tspan class="t10">o</tspan><tspan class="t10">g</tspan><tspan class="t10">y</tspan><tspan class="t11"> </tspan><tspan class="t11">e</tspan><tspan class="t11">t</tspan><tspan class="t11">h</tspan><tspan class="t11">i</tspan><tspan class="t11">c</tspan><tspan class="t11">a</tspan><tspan class="t11">l</tspan><tspan class="t11">l</tspan><tspan class="t11">y</tspan><tspan class="t11">.</tspan>
+  </text>
+  <!-- Line 3 -->
+  <text x="468" y="136" font-size="11.5" class="out">
+    <tspan class="t12">E</tspan><tspan class="t12">x</tspan><tspan class="t12">p</tspan><tspan class="t12">e</tspan><tspan class="t12">r</tspan><tspan class="t12">i</tspan><tspan class="t12">e</tspan><tspan class="t12">n</tspan><tspan class="t12">c</tspan><tspan class="t12">e</tspan><tspan class="t13"> </tspan><tspan class="t13">c</tspan><tspan class="t13">o</tspan><tspan class="t13">v</tspan><tspan class="t13">e</tspan><tspan class="t13">r</tspan><tspan class="t13">s</tspan><tspan class="t14"> </tspan><tspan class="t14">p</tspan><tspan class="t14">e</tspan><tspan class="t14">n</tspan><tspan class="t14">e</tspan><tspan class="t14">t</tspan><tspan class="t14">r</tspan><tspan class="t14">a</tspan><tspan class="t14">t</tspan><tspan class="t14">i</tspan><tspan class="t14">o</tspan><tspan class="t14">n</tspan><tspan class="t15"> </tspan><tspan class="t15">t</tspan><tspan class="t15">e</tspan><tspan class="t15">s</tspan><tspan class="t15">t</tspan><tspan class="t15">i</tspan><tspan class="t15">n</tspan><tspan class="t15">g</tspan><tspan class="t15">,</tspan><tspan class="t16"> </tspan><tspan class="t16">O</tspan><tspan class="t16">S</tspan><tspan class="t16">I</tspan><tspan class="t16">N</tspan><tspan class="t16">T</tspan><tspan class="t16">,</tspan>
+  </text>
+  <!-- Line 4 -->
+  <text x="468" y="154" font-size="11.5" class="out">
+    <tspan class="t17">s</tspan><tspan class="t17">e</tspan><tspan class="t17">c</tspan><tspan class="t17">u</tspan><tspan class="t17">r</tspan><tspan class="t17">i</tspan><tspan class="t17">t</tspan><tspan class="t17">y</tspan><tspan class="t18"> </tspan><tspan class="t18">t</tspan><tspan class="t18">o</tspan><tspan class="t18">o</tspan><tspan class="t18">l</tspan><tspan class="t19"> </tspan><tspan class="t19">d</tspan><tspan class="t19">e</tspan><tspan class="t19">v</tspan><tspan class="t19">e</tspan><tspan class="t19">l</tspan><tspan class="t19">o</tspan><tspan class="t19">p</tspan><tspan class="t19">m</tspan><tspan class="t19">e</tspan><tspan class="t19">n</tspan><tspan class="t19">t</tspan><tspan class="t19">,</tspan><tspan class="t20"> </tspan><tspan class="t20">a</tspan><tspan class="t20">n</tspan><tspan class="t20">d</tspan><tspan class="t21"> </tspan><tspan class="t21">p</tspan><tspan class="t21">r</tspan><tspan class="t21">o</tspan><tspan class="t21">c</tspan><tspan class="t21">e</tspan><tspan class="t21">s</tspan><tspan class="t21">s</tspan><tspan class="t22"> </tspan><tspan class="t22">a</tspan><tspan class="t22">u</tspan><tspan class="t22">t</tspan><tspan class="t22">o</tspan><tspan class="t22">m</tspan><tspan class="t22">a</tspan><tspan class="t22">t</tspan><tspan class="t22">i</tspan><tspan class="t22">o</tspan><tspan class="t22">n</tspan><tspan class="t22">.</tspan>
+  </text>
+  <!-- Line 5 -->
+  <text x="468" y="172" font-size="11.5" class="out">
+    <tspan class="t23">E</tspan><tspan class="t23">v</tspan><tspan class="t23">e</tspan><tspan class="t23">r</tspan><tspan class="t23">y</tspan><tspan class="t24"> </tspan><tspan class="t24">v</tspan><tspan class="t24">u</tspan><tspan class="t24">l</tspan><tspan class="t24">n</tspan><tspan class="t24">e</tspan><tspan class="t24">r</tspan><tspan class="t24">a</tspan><tspan class="t24">b</tspan><tspan class="t24">i</tspan><tspan class="t24">l</tspan><tspan class="t24">i</tspan><tspan class="t24">t</tspan><tspan class="t24">y</tspan><tspan class="t25"> </tspan><tspan class="t25">i</tspan><tspan class="t25">s</tspan><tspan class="t26"> </tspan><tspan class="t26">a</tspan><tspan class="t26">n</tspan><tspan class="t27"> </tspan><tspan class="t27">o</tspan><tspan class="t27">p</tspan><tspan class="t27">p</tspan><tspan class="t27">o</tspan><tspan class="t27">r</tspan><tspan class="t27">t</tspan><tspan class="t27">u</tspan><tspan class="t27">n</tspan><tspan class="t27">i</tspan><tspan class="t27">t</tspan><tspan class="t27">y</tspan><tspan class="t28"> </tspan><tspan class="t28">t</tspan><tspan class="t28">o</tspan>
+  </text>
+  <!-- Line 6 -->
+  <text x="468" y="190" font-size="11.5" class="out">
+    <tspan class="t29">s</tspan><tspan class="t29">t</tspan><tspan class="t29">r</tspan><tspan class="t29">e</tspan><tspan class="t29">n</tspan><tspan class="t29">g</tspan><tspan class="t29">t</tspan><tspan class="t29">h</tspan><tspan class="t29">e</tspan><tspan class="t29">n</tspan><tspan class="t30"> </tspan><tspan class="t30">a</tspan><tspan class="t31"> </tspan><tspan class="t31">s</tspan><tspan class="t31">y</tspan><tspan class="t31">s</tspan><tspan class="t31">t</tspan><tspan class="t31">e</tspan><tspan class="t31">m</tspan><tspan class="t32"> </tspan><tspan class="t32">—</tspan><tspan class="t33"> </tspan><tspan class="t33">n</tspan><tspan class="t33">o</tspan><tspan class="t33">t</tspan><tspan class="t34"> </tspan><tspan class="t34">j</tspan><tspan class="t34">u</tspan><tspan class="t34">s</tspan><tspan class="t34">t</tspan><tspan class="t35"> </tspan><tspan class="t35">e</tspan><tspan class="t35">x</tspan><tspan class="t35">p</tspan><tspan class="t35">l</tspan><tspan class="t35">o</tspan><tspan class="t35">i</tspan><tspan class="t35">t</tspan><tspan class="t35"> </tspan><tspan class="t36">i</tspan><tspan class="t36">t</tspan><tspan class="t36">.</tspan>
+  </text>
+
+  <!-- separator after verbose -->
+  <text x="468" y="218" font-size="12" class="sep t40">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</text>
+
+  <!-- final prompt + blinking cursor -->
+  <text x="468" y="238" font-size="12" class="t45">
+    <tspan class="prompt">└─$</tspan>
+    <tspan> </tspan>
+  </text>
+  <rect x="503" y="226" width="7" height="13" fill="#58a6ff" class="cursor"/>
+</svg>
