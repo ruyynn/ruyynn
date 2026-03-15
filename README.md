@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="60"/>
   &nbsp;
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="50"/>
   <samp>All tools are <b>free & open source</b> — built with Python: clean and efficient.</samp>
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="60"/>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="50"/>
 </p>
 
 <p align="center">
@@ -27,19 +27,20 @@
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/ruyynn?style=flat-square&color=0d1117&labelColor=22d3ee&logo=github)](https://github.com/ruyynn)
 
+</p>
+
 </div>
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=22d3ee&width=400&lines=Follow+Github+Ruyynn+^_^" alt="Follow Github Ruyynn ^_^"/>
+</p>
+
+
 ## 👤 About Me
 
-| | |
-|---|---|
-| **Name** | Ruyynn |
-| **Location** | West Java, Indonesia |
-| **Role** | Cybersecurity Enthusiast · Python Dev |
-| **Principle** | *"Low noise, high precision."* |
-| **Status** | ⚡ Building & Learning |
+![terminal](./ruyynn_terminal.svg)
 
 ---
 
@@ -117,6 +118,20 @@ Defensive security assessment tool to help website owners identify potential sec
 <img src="https://github-readme-stats.vercel.app/api?username=ruyynn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8" height="160"/>
 &nbsp;
 <img src="https://streak-stats.demolab.com?user=ruyynn&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee" height="160"/>
+
+</div>
+
+---
+
+## ☕ Support
+
+<div align="center">
+
+`If my open-source security tools help your workflow, you can support the project here.`
+
+<a href="https://saweria.co/Ruyynn">
+  <img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" width="180"/>
+</a>
 
 </div>
 
