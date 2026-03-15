@@ -126,7 +126,8 @@ Defensive security assessment tool to help website owners identify potential sec
 ## ☕ Support My Work
 
 <div align="center">
-  <p>If my open-source security tools help your workflow, you can support the project here.</p>
+
+`If my open-source security tools help your workflow, you can support the project here.`
 
   <a href="https://ko-fi.com/H2H11W13IP" target="_blank">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" width="180" alt="Ko-fi">
