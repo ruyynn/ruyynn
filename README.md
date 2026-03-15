@@ -123,16 +123,18 @@ Defensive security assessment tool to help website owners identify potential sec
 
 ---
 
-## ☕ Support
+## ☕ Support My Work
 
 <div align="center">
+  <p>If my open-source security tools help your workflow, you can support the project here.</p>
 
-`If my open-source security tools help your workflow, you can support the project here.`
+  <a href="https://ko-fi.com/H2H11W13IP" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" width="180" alt="Ko-fi">
+  </a>
 
-<a href="https://saweria.co/Ruyynn">
-  <img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" width="180"/>
-</a>
-
+  <a href="https://saweria.co/Ruyynn" target="_blank">
+    <img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" width="180" alt="Saweria">
+  </a>
 </div>
 
 ---
