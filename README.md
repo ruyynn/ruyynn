@@ -115,9 +115,45 @@ Defensive security assessment tool to help website owners identify potential sec
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ruyynn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8" height="160"/>
-&nbsp;
-<img src="https://streak-stats.demolab.com?user=ruyynn&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee" height="160"/>
+<!-- DEVELOPER PROFILE -->
+### 👨‍💻 Developer Profile
+
+[![GitHub](https://img.shields.io/badge/GITHUB-OWNER-FF4500?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/ruyynn)
+[![GitHub Stars](https://img.shields.io/github/stars/ruyynn?style=for-the-badge&logo=github&color=FFA500&labelColor=0a0a0a)](https://github.com/ruyynn)
+[![GitHub Followers](https://img.shields.io/github/followers/ruyynn?style=for-the-badge&logo=github&color=4CAF50&labelColor=0a0a0a)](https://github.com/ruyynn?tab=followers)
+
+<br>
+
+<!-- PROFILE & STATS -->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ruyynn">
+        <img src="https://avatars.githubusercontent.com/ruyynn" width="120px" alt="ruyynn avatar">
+        <br>
+        <sub><b>ruyynn</b></sub>
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ruyynn&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats">
+    </td>
+  </tr>
+</table>
+
+<!-- STREAK STATS -->
+<img src="https://streak-stats.demolab.com?user=ruyynn&theme=radical&hide_border=true&background=0a0a0a&ring=FF4500&fire=FF4500&currStreakLabel=FF4500">
+
+<!-- ADDITIONAL STATS -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruyynn&theme=radical">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruyynn&theme=radical">
+    </td>
+  </tr>
+</table>
 
 </div>
 
