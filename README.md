@@ -119,7 +119,6 @@ Defensive security assessment tool to help website owners identify potential sec
 ### 👨‍💻 Developer Profile
 
 [![GitHub](https://img.shields.io/badge/GITHUB-OWNER-FF4500?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/ruyynn)
-[![GitHub Stars](https://img.shields.io/github/stars/ruyynn?style=for-the-badge&logo=github&color=FFA500&labelColor=0a0a0a)](https://github.com/ruyynn)
 [![GitHub Followers](https://img.shields.io/github/followers/ruyynn?style=for-the-badge&logo=github&color=4CAF50&labelColor=0a0a0a)](https://github.com/ruyynn?tab=followers)
 
 <br>
