@@ -99,7 +99,7 @@
     </td>
     <td width="33%" align="center" valign="top">
       <a href="https://github.com/ruyynn/DDoSSCAN">
-        <img src="https://raw.githubusercontent.com/ruyynn/DDoSSCAN/main/assets/DDoS.png" width="80px" style="border-radius: 20px;" onerror="this.src='https://img.icons8.com/color/80/000000/fire-element.png'">
+        <img src="https://github.com/ruyynn/DDoSSCAN/blob/main/Assets/DDoS.png" width="80px" style="border-radius: 20px;" onerror="this.src='https://img.icons8.com/color/80/000000/fire-element.png'">
       </a>
       <br>
       <h3>🔥 DDoSSCAN</h3>
