@@ -54,7 +54,6 @@
 | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) | |
 | ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) | | ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white) | |
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | | ![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=flat-square&logo=databricks&logoColor=white) | |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | | | |
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | | | |
 | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | | | |
 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | | | |
@@ -68,13 +67,10 @@
 <table align="center">
   <tr>
     <td width="25%" align="center" valign="top">
-      <a href="https://github.com/ruyynn/GhostIntel">
-        <br>
-        <h3>👻 GhostIntel</h3>
-      </a>
+      <h3><a href="https://github.com/ruyynn/GhostIntel">👻 GhostIntel</a></h3>
       <p align="center">
         <b>OSINT Framework</b><br>
-        Phone · Username · IP · Domain intelligence dari sumber publik. Cepat, legal, dan etis.
+        Phone · Username · IP · Domain intelligence from public sources. Fast, legal, and ethical.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -96,12 +92,10 @@
       </details>
     </td>
     <td width="25%" align="center" valign="top">
-      <a href="https://github.com/ruyynn/VulnDraft">
-        <h3>🐞 VulnDraft</h3>
-      </a>
+      <h3><a href="https://github.com/ruyynn/VulnDraft">🐞 VulnDraft</a></h3>
       <p align="center">
         <b>Bug Report Generator</b><br>
-        Hasilkan laporan profesional untuk HackerOne, Bugcrowd, Intigriti dalam hitungan menit.
+        Generate professional reports for HackerOne, Bugcrowd, and Intigriti in minutes.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -114,7 +108,7 @@
       <details>
         <summary><b>✨ Features</b></summary>
         <ul align="left">
-          <li>🎨 CLI + Web GUI Mode</li>
+          <li>🎨 CLI + Web Mode</li>
           <li>📄 Export MD / HTML / JSON</li>
           <li>🏆 Template H1, Bugcrowd, Intigriti</li>
           <li>📊 CVSS v3.1 Calculator</li>
@@ -123,12 +117,10 @@
       </details>
     </td>
     <td width="25%" align="center" valign="top">
-      <a href="https://github.com/ruyynn/DDoSSCAN">
-        <h3>🔥 DDoSSCAN</h3>
-      </a>
+      <h3><a href="https://github.com/ruyynn/DDoSSCAN">🔥 DDoSSCAN</a></h3>
       <p align="center">
         <b>Network Stress Testing Framework</b><br>
-        Uji ketahanan infrastruktur dengan safety blocker & live dashboard.
+        Test infrastructure resilience with a safety blocker and live dashboard.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -150,12 +142,10 @@
       </details>
      </td>
     <td width="25%" align="center" valign="top">
-      <a href="https://github.com/ruyynn/RYN27">
-        <h3>📡 RYN27</h3>
-      </a>
+      <h3><a href="https://github.com/ruyynn/RYN27">📡 RYN27</a></h3>
       <p align="center">
         <b>OSINT & Information Gathering</b><br>
-        19 modul recon — WHOIS, DNS, port scan, subdomain enum, SSL inspection.
+        19 recon modules — WHOIS, DNS, port scan, subdomain enum, SSL inspection.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -168,10 +158,10 @@
       <details>
         <summary><b>🛠️ 19 Modules</b></summary>
         <ul align="left">
-          <li>🌐 Web Recon (7 modul)</li>
-          <li>🔗 DNS / Network (6 modul)</li>
-          <li>🖥️ IP / Host (5 modul)</li>
-          <li>🔒 SSL / TLS (1 modul)</li>
+          <li>🌐 Web Recon (7 modules)</li>
+          <li>🔗 DNS / Network (6 modules)</li>
+          <li>🖥️ IP / Host (5 modules)</li>
+          <li>🔒 SSL / TLS (1 module)</li>
         </ul>
       </details>
      </td>
