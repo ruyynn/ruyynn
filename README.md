@@ -27,8 +27,6 @@
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/ruyynn?style=flat-square&color=0d1117&labelColor=22d3ee&logo=github)](https://github.com/ruyynn)
 
-</p>
-
 </div>
 
 ---
@@ -55,6 +53,7 @@
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | ![Burp](https://img.shields.io/badge/Burp-FF6633?style=flat-square&logo=burpsuite&logoColor=white) | ![PortSwigger](https://img.shields.io/badge/PortSwigger-FF6B35?style=flat-square&logo=burpsuite&logoColor=white) |
 | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) | |
 | ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) | | ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white) | |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | | ![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=flat-square&logo=databricks&logoColor=white) | |
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | | | |
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | | | |
 | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | | | |
@@ -68,12 +67,38 @@
 
 <table align="center">
   <tr>
-    <td width="33%" align="center" valign="top">
-      <a href="https://github.com/ruyynn/VulnDraft">
-        <img src="https://raw.githubusercontent.com/ruyynn/VulnDraft/main/assets/VulnDraft_Logo.png" width="80px" style="border-radius: 20px;">
+    <td width="25%" align="center" valign="top">
+      <a href="https://github.com/ruyynn/GhostIntel">
+        <br>
+        <h3>👻 GhostIntel</h3>
       </a>
-      <br>
-      <h3>🐞 VulnDraft</h3>
+      <p align="center">
+        <b>OSINT Framework</b><br>
+        Phone · Username · IP · Domain intelligence dari sumber publik. Cepat, legal, dan etis.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/OSINT-22d3ee?style=for-the-badge&logo=eye&logoColor=black">
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/ruyynn/GhostIntel?style=flat-square&color=22d3ee&labelColor=0d1117&logo=github">
+        <img src="https://img.shields.io/github/forks/ruyynn/GhostIntel?style=flat-square&color=22d3ee&labelColor=0d1117&logo=github">
+        <img src="https://img.shields.io/github/watchers/ruyynn/GhostIntel?style=flat-square&color=22d3ee&labelColor=0d1117&logo=github">
+      </p>
+      <details>
+        <summary><b>🔍 Features</b></summary>
+        <ul align="left">
+          <li>📱 Phone OSINT — ID, US, GB, MY, IN</li>
+          <li>👤 Username Search — Multi Platform</li>
+          <li>📧 Email OSINT</li>
+          <li>🌐 My IP Intelligence</li>
+        </ul>
+      </details>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://github.com/ruyynn/VulnDraft">
+        <h3>🐞 VulnDraft</h3>
+      </a>
       <p align="center">
         <b>Bug Report Generator</b><br>
         Hasilkan laporan profesional untuk HackerOne, Bugcrowd, Intigriti dalam hitungan menit.
@@ -83,8 +108,8 @@
         <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Reporting-0F6E56?style=flat-square&logo=bugcrowd&logoColor=white">
-        <img src="https://img.shields.io/badge/CVSS_3.1-FF6B6B?style=flat-square&logo=codefactor&logoColor=white">
+        <img src="https://img.shields.io/github/stars/ruyynn/VulnDraft?style=flat-square&color=22d3ee&labelColor=0d1117&logo=github">
+        <img src="https://img.shields.io/github/forks/ruyynn/VulnDraft?style=flat-square&color=22d3ee&labelColor=0d1117&logo=github">
       </p>
       <details>
         <summary><b>✨ Features</b></summary>
@@ -97,12 +122,10 @@
         </ul>
       </details>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="25%" align="center" valign="top">
       <a href="https://github.com/ruyynn/DDoSSCAN">
-        <img src="https://github.com/ruyynn/DDoSSCAN/blob/main/Assets/DDoS.png" width="80px" style="border-radius: 20px;" onerror="this.src='https://img.icons8.com/color/80/000000/fire-element.png'">
+        <h3>🔥 DDoSSCAN</h3>
       </a>
-      <br>
-      <h3>🔥 DDoSSCAN</h3>
       <p align="center">
         <b>Network Stress Testing Framework</b><br>
         Uji ketahanan infrastruktur dengan safety blocker & live dashboard.
@@ -112,8 +135,8 @@
         <img src="https://img.shields.io/badge/Threading-FFA500?style=for-the-badge&logo=thread&logoColor=white">
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Authorized_Only-FF0000?style=flat-square&logo=githu actions&logoColor=white">
-        <img src="https://img.shields.io/badge/Safety_Blocker-00C853?style=flat-square&logo=shield&logoColor=white">
+        <img src="https://img.shields.io/github/stars/ruyynn/DDoSSCAN?style=flat-square&color=22d3ee&labelColor=0d1117&logo=github">
+        <img src="https://img.shields.io/github/forks/ruyynn/DDoSSCAN?style=flat-square&color=22d3ee&labelColor=0d1117&logo=github">
       </p>
       <details>
         <summary><b>⚡ Attack Vectors</b></summary>
@@ -126,12 +149,10 @@
         </ul>
       </details>
      </td>
-    <td width="33%" align="center" valign="top">
+    <td width="25%" align="center" valign="top">
       <a href="https://github.com/ruyynn/RYN27">
-        <img src="https://raw.githubusercontent.com/ruyynn/RYN27/main/assets/ryn27_logo.png" width="80px" style="border-radius: 20px;" onerror="this.src='https://img.icons8.com/color/80/000000/radar.png'">
+        <h3>📡 RYN27</h3>
       </a>
-      <br>
-      <h3>📡 RYN27</h3>
       <p align="center">
         <b>OSINT & Information Gathering</b><br>
         19 modul recon — WHOIS, DNS, port scan, subdomain enum, SSL inspection.
@@ -141,9 +162,8 @@
         <img src="https://img.shields.io/badge/Rich-FFD700?style=for-the-badge&logo=terminal&logoColor=black">
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/OSINT-185FA5?style=flat-square&logo=eye&logoColor=white">
-        <img src="https://img.shields.io/badge/CLI-4CAF50?style=flat-square&logo=windowsterminal&logoColor=white">
-        <img src="https://img.shields.io/badge/CTF-FF6B35?style=flat-square&logo=ctf&logoColor=white">
+        <img src="https://img.shields.io/github/stars/ruyynn/RYN27?style=flat-square&color=22d3ee&labelColor=0d1117&logo=github">
+        <img src="https://img.shields.io/github/forks/ruyynn/RYN27?style=flat-square&color=22d3ee&labelColor=0d1117&logo=github">
       </p>
       <details>
         <summary><b>🛠️ 19 Modules</b></summary>
@@ -171,7 +191,6 @@
 
 <div align="center">
 
-<!-- DEVELOPER PROFILE -->
 ### 👨‍💻 Developer Profile
 
 [![GitHub](https://img.shields.io/badge/GITHUB-OWNER-FF4500?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/ruyynn)
@@ -179,7 +198,6 @@
 
 <br>
 
-<!-- PROFILE & STATS -->
 <table>
   <tr>
     <td align="center">
@@ -195,10 +213,8 @@
   </tr>
 </table>
 
-<!-- STREAK STATS -->
 <img src="https://streak-stats.demolab.com?user=ruyynn&theme=radical&hide_border=true&background=0a0a0a&ring=FF4500&fire=FF4500&currStreakLabel=FF4500">
 
-<!-- ADDITIONAL STATS -->
 <table>
   <tr>
     <td>
