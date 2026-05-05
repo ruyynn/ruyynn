@@ -243,7 +243,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=22d3ee)](https://github.com/ruyynn)
 [![Mastodon](https://img.shields.io/badge/Mastodon-0d1117?style=for-the-badge&logo=mastodon&logoColor=D14836)](https://infosec.exchange/@Ruyynn)
-[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=22d3ee)](https://web.facebook.com/profile.php?id=61587795784907)
+[![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=22d3ee)](https://t.me/RuyynnID)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:ruyynn25@gmail.com)
 
 *Open for collaboration · CTF · Open Source*
