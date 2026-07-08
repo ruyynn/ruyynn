@@ -42,21 +42,54 @@
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-| **Languages** | **Tools** | **Security** | **Labs** |
-|:-------------:|:---------:|:------------:|:--------:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) | ![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white) | ![HTB](https://img.shields.io/badge/HTB-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00) |
-| ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white) | ![THM](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white) |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | ![Burp](https://img.shields.io/badge/Burp-FF6633?style=flat-square&logo=burpsuite&logoColor=white) | ![PortSwigger](https://img.shields.io/badge/PortSwigger-FF6B35?style=flat-square&logo=burpsuite&logoColor=white) |
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) | |
-| ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) | | ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white) | |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | | ![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=flat-square&logo=databricks&logoColor=white) | |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | | | |
-| ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | | | |
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | | | |
+### Languages & Dev
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+
+### Systems & Environment
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
+
+<img src="https://www.kali.org/images/kali-logo.svg" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/WSL_Logo.svg" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Windows_Terminal_Logo.png" height="45"/>
+
+### Tools & Workflow
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="45"/>
+
+
+### Security & Pentesting
+<img src="https://portswigger.net/content/images/logos/burp-suite-logo.svg" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Owasp_logo.svg" height="45"/>
+<img src="https://nmap.org/images/nmap-logo-256x256.png" height="45"/>
+<img src="https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Subfinder-FF6B6B?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nuclei-4B0082?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amass-6A5ACD?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/httpx-00BFFF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/ffuf-FCA121?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Gobuster-FF4500?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dirsearch-228B22?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dalfox-FF1493?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/XSStrike-DC143C?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Dorking-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
 </div>
 
