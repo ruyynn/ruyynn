@@ -36,10 +36,22 @@
 </p>
 
 
-## 👤 About Me
+## About Me 
 
-![terminal](./ruyynn_terminal.svg)
+```python
+class Ruyynn:
+    def __init__(self):
+        self.alias       = ["Ruyynn"]
+        self.role        = "Penetration Tester & Security Researcher"
+        self.focus       = ["Red Teaming", "Bug Hunting", "OSINT Architecture"]
+        self.languages   = ["Python", "Bash", "JavaScript"]
+        
+    def current_mission(self):
+        return "Developing open-source security frameworks & hardening infrastructure."
 
+    def operational_status(self):
+        return "Active in Bug Bounty | Vulnerability Assessment | Exploitation Research"
+```
 ---
 
 ## Tech Stack
@@ -95,177 +107,111 @@
 
 ---
 
+
 ## 🛠️ Featured Projects
 
-<table align="center">
-  <tr>
-    <td width="25%" align="center" valign="top">
-      <h3><a href="https://github.com/ruyynn/GhostIntel">👻 GhostIntel</a></h3>
-      <p align="center">
-        <b>OSINT Framework</b><br>
-        Phone · Username · IP · Domain intelligence from public sources. Fast, legal, and ethical.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/OSINT-22d3ee?style=for-the-badge&logo=eye&logoColor=black">
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/ruyynn/GhostIntel?style=flat-square&color=22d3ee&labelColor=0d1117&logo=github">
-        <img src="https://img.shields.io/github/forks/ruyynn/GhostIntel?style=flat-square&color=22d3ee&labelColor=0d1117&logo=github">
-        <img src="https://img.shields.io/github/watchers/ruyynn/GhostIntel?style=flat-square&color=22d3ee&labelColor=0d1117&logo=github">
-      </p>
-      <details>
-        <summary><b>🔍 Features</b></summary>
-        <ul align="left">
-          <li>📱 Phone OSINT — ID, US, GB, MY, IN</li>
-          <li>👤 Username Search — Multi Platform</li>
-          <li>📧 Email OSINT</li>
-          <li>🌐 My IP Intelligence</li>
-        </ul>
-      </details>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <h3><a href="https://github.com/ruyynn/VulnDraft">🐞 VulnDraft</a></h3>
-      <p align="center">
-        <b>Bug Report Generator</b><br>
-        Generate professional reports for HackerOne, Bugcrowd, and Intigriti in minutes.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/ruyynn/VulnDraft?style=flat-square&color=22d3ee&labelColor=0d1117&logo=github">
-        <img src="https://img.shields.io/github/forks/ruyynn/VulnDraft?style=flat-square&color=22d3ee&labelColor=0d1117&logo=github">
-      </p>
-      <details>
-        <summary><b>✨ Features</b></summary>
-        <ul align="left">
-          <li>🎨 CLI + Web Mode</li>
-          <li>📄 Export MD / HTML / JSON</li>
-          <li>🏆 Template H1, Bugcrowd, Intigriti</li>
-          <li>📊 CVSS v3.1 Calculator</li>
-          <li>🔁 REST API Support</li>
-        </ul>
-      </details>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <h3><a href="https://github.com/ruyynn/DDoSSCAN">🔥 DDoSSCAN</a></h3>
-      <p align="center">
-        <b>Network Stress Testing Framework</b><br>
-        Test infrastructure resilience with a safety blocker and live dashboard.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/Threading-FFA500?style=for-the-badge&logo=thread&logoColor=white">
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/ruyynn/DDoSSCAN?style=flat-square&color=22d3ee&labelColor=0d1117&logo=github">
-        <img src="https://img.shields.io/github/forks/ruyynn/DDoSSCAN?style=flat-square&color=22d3ee&labelColor=0d1117&logo=github">
-      </p>
-      <details>
-        <summary><b>⚡ Attack Vectors</b></summary>
-        <ul align="left">
-          <li>🌊 HTTP Flood (L7)</li>
-          <li>🔌 TCP Flood (L4)</li>
-          <li>📦 UDP Flood (L4)</li>
-          <li>🐌 Slowloris</li>
-          <li>🔄 Mixed Mode</li>
-        </ul>
-      </details>
-     </td>
-    <td width="25%" align="center" valign="top">
-      <h3><a href="https://github.com/ruyynn/RYN27">📡 RYN27</a></h3>
-      <p align="center">
-        <b>OSINT & Information Gathering</b><br>
-        19 recon modules — WHOIS, DNS, port scan, subdomain enum, SSL inspection.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/Rich-FFD700?style=for-the-badge&logo=terminal&logoColor=black">
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/ruyynn/RYN27?style=flat-square&color=22d3ee&labelColor=0d1117&logo=github">
-        <img src="https://img.shields.io/github/forks/ruyynn/RYN27?style=flat-square&color=22d3ee&labelColor=0d1117&logo=github">
-      </p>
-      <details>
-        <summary><b>🛠️ 19 Modules</b></summary>
-        <ul align="left">
-          <li>🌐 Web Recon (7 modules)</li>
-          <li>🔗 DNS / Network (6 modules)</li>
-          <li>🖥️ IP / Host (5 modules)</li>
-          <li>🔒 SSL / TLS (1 module)</li>
-        </ul>
-      </details>
-     </td>
-  </tr>
-</table>
-
-<br>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/⚡_Built_With-Python_⚡-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117">
+  <b>Featured Open-Source Security Tools Built with Python</b>
 </p>
+
+### [GhostIntel](https://github.com/ruyynn/GhostIntel)
+> **OSINT Framework** — Phone, username, IP, and domain intelligence from public sources. Fast, legal, and ethical.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/OSINT-22d3ee?style=flat-square&logo=eye&logoColor=black">
+  <img src="https://img.shields.io/badge/Open--Source-brightgreen?style=flat-square">
+  <img src="https://img.shields.io/github/stars/ruyynn/GhostIntel?style=flat-square&color=22d3ee&labelColor=0d1117&logo=github">
+</p>
+
+<kbd>🚀 v3.0 coming soon with advanced modules</kbd>
+
+<details>
+  <summary><b>View Features</b></summary>
+  <ul>
+    <li>Phone OSINT — ID, US, GB, MY, IN</li>
+    <li>Username Search — Multi Platform</li>
+    <li>Email OSINT & Data Leak Check</li>
+    <li>IP Intelligence & Geolocation</li>
+  </ul>
+</details>
+
+---
+
+### [VulnDraft](https://github.com/ruyynn/VulnDraft)
+> **Bug Report Generator** — Generate professional security reports for HackerOne, Bugcrowd, and Intigriti in minutes.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Open--Source-brightgreen?style=flat-square">
+  <img src="https://img.shields.io/github/stars/ruyynn/VulnDraft?style=flat-square&color=22d3ee&labelColor=0d1117&logo=github">
+</p>
+
+<kbd>⚡ Production Ready</kbd>
+
+<details>
+  <summary><b>View Features</b></summary>
+  <ul>
+    <li>CLI + Web Mode Interface</li>
+    <li>Export formats: Markdown, HTML, JSON</li>
+    <li>Pre-built Templates (H1, Bugcrowd, Intigriti)</li>
+    <li>Built-in CVSS v3.1 Calculator</li>
+    <li>Full REST API Support</li>
+  </ul>
+</details>
 
 
 ---
 
-## 📊 Stats
+## 📊 System Statistics & Metrics
 
 <div align="center">
 
-### 👨‍💻 Developer Profile
+### ⚡ Operational Profile
 
-[![GitHub](https://img.shields.io/badge/GITHUB-OWNER-FF4500?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/ruyynn)
-[![GitHub Followers](https://img.shields.io/github/followers/ruyynn?style=for-the-badge&logo=github&color=4CAF50&labelColor=0a0a0a)](https://github.com/ruyynn?tab=followers)
+[![Identity](https://img.shields.io/badge/IDENTITY-Ruyynn-red?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0d1117)](https://github.com/ruyynn)
+[![Role](https://img.shields.io/badge/ROLE-PENETRATION_TESTER-00f0ff?style=for-the-badge&logo=target&logoColor=white&labelColor=0d1117)](https://github.com/ruyynn)
+[![Followers](https://img.shields.io/github/followers/ruyynn?style=for-the-badge&logo=github&color=green&labelColor=0d1117)](https://github.com/ruyynn?tab=followers)
 
 <br>
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/ruyynn">
-        <img src="https://avatars.githubusercontent.com/ruyynn" width="120px" alt="ruyynn avatar">
-        <br>
-        <sub><b>ruyynn</b></sub>
-      </a>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ruyynn&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats">
-    </td>
-  </tr>
-</table>
+<!-- Core Metrics Row -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruyynn&show_icons=true&theme=gotham&hide_border=true&count_private=true&title_color=ff0055&text_color=ffffff&icon_color=00f0ff&bg_color=0d1117" alt="GitHub Stats" width="48%">
+  <img src="https://streak-stats.demolab.com?user=ruyynn&theme=gotham&hide_border=true&background=0d1117&ring=ff0055&fire=ff0055&currStreakLabel=ffffff&currStreakNum=00f0ff&sideLabels=ffffff" alt="GitHub Streak" width="48%">
+</p>
 
-<img src="https://streak-stats.demolab.com?user=ruyynn&theme=radical&hide_border=true&background=0a0a0a&ring=FF4500&fire=FF4500&currStreakLabel=FF4500">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruyynn&theme=radical">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruyynn&theme=radical">
-    </td>
-  </tr>
-</table>
+<!-- Productivity Metrics Row -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruyynn&theme=gotham" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruyynn&theme=gotham" width="48%">
+</p>
 
 </div>
 
 ---
 
-## ☕ Support My Work
+## ☕ Support the Mission
 
 <div align="center">
 
-`If my open-source security tools help your workflow, you can support the project here.`
+<blockquote>
+<b>Operational Support</b><br>
+If these open-source security frameworks optimize your infrastructure testing or workflow, consider supporting the continuous development.
+</blockquote>
 
-  <a href="https://ko-fi.com/H2H11W13IP" target="_blank">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" width="180" alt="Ko-fi">
-  </a>
+<br>
 
+<p align="center">
   <a href="https://saweria.co/Ruyynn" target="_blank">
-    <img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" width="180" alt="Saweria">
+    <img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" width="165" alt="Saweria" style="vertical-align: middle; margin-right: 10px;">
   </a>
+  <a href="https://ko-fi.com/H2H11W13IP" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" width="165" alt="Ko-fi" style="vertical-align: middle;">
+  </a>
+</p>
+
 </div>
 
 ---
