@@ -32,7 +32,7 @@
 ```python
 class Ruyynn:
     def __init__(self):
-        self.alias       = ["Ruyynn", "Natanael Reynara"]
+        self.alias       = ["Ruyynn"]
         self.role        = "Penetration Tester & Security Researcher"
         self.focus       = ["Red Teaming", "Bug Hunting", "OSINT Architecture"]
         self.languages   = ["Python", "Bash", "JavaScript"]
@@ -213,7 +213,6 @@ class Ruyynn:
 
 - Currently developing **open-source security frameworks**
 - Active in **Bug Bounty** & vulnerability assessment
-- Building & maintaining [**ruyynn.my.id**](https://www.ruyynn.my.id/) — my personal portfolio
 - Ask me about **Python, Pentesting, OSINT, Bug Hunting**
 - Reach me: [LinkedIn](https://www.linkedin.com/in/natanael-reynara) · [Telegram](https://t.me/RuyynnID) · [Email](mailto:ruyynn25@gmail.com)
 
