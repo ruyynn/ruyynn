@@ -38,7 +38,6 @@ class Ruyynn:
         self.languages   = ["Python", "Bash", "JavaScript"]
         self.links       = {
             "portfolio": "https://www.ruyynn.my.id/",
-            "linkedin":  "https://www.linkedin.com/in/natanael-reynara",
             "github":    "https://github.com/ruyynn"
         }
 
@@ -233,11 +232,6 @@ If these open-source security frameworks optimize your workflow,<br>consider sup
   <a href="https://saweria.co/Ruyynn" target="_blank">
     <img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" width="150" alt="Saweria"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://ko-fi.com/H2H11W13IP" target="_blank">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" width="150" alt="Ko-fi"/>
-  </a>
-</p>
 
 </div>
 
